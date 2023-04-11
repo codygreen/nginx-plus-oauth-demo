@@ -49,3 +49,7 @@ The configuration of Keycloak is based on the [NMS Tutorial](https://docs.nginx.
 ### Verification
 
 Can you verify that Keycloak is working by running running the [NGINX Plus OAuth Demo](NGINX_Plus_OAuth_Demo.postman_collection.json) Postman Collection.
+
+## NGINX Plus
+
+You will need to build an NGINX Plus container based on the [NGINX Plus documentation](https://docs.nginx.com/nginx/admin-guide/installing-nginx/installing-nginx-docker/#running-nginx-plus-in-a-docker-container).
