@@ -56,7 +56,7 @@ You will need to build an NGINX Plus container based on the [NGINX Plus document
 
 ### Store the Keycloak Introspection Secret
 
-Create a file `nginx-oauth-secrets.conf` and save the following information in the file:
+Modify the `nginx-oauth-secrets.conf` file with your settings:
 
 ```bash
 set $oauth_client_id          "nginx-plus";
